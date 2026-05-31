@@ -1,0 +1,7 @@
+fly() {
+  local .fly.func()
+  local .xyz.pos() = true
+}
+
+
+__FLY_ACTIVATE = true
