@@ -3,7 +3,7 @@ import NOME
 
 
 
-print("eai $NOME tudo susa")
+print(f"eai {NOME.NOME} tudo susa")
 
 
 
